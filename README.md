@@ -7,8 +7,8 @@
 const valentina = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [React, Boostrap, MaterialUI, Sass, MySql],
-  currentlyLearning: []
+  tools: [React, Boostrap, MaterialUI, Sass, MySQL],
+  currentlyLearning: [C#, .net, backend]
 }
 ```
 

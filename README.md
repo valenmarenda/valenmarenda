@@ -1,4 +1,4 @@
-### Hi I'M Valentina 👋👩🏼‍💻
+### Hi I'm Valentina 👋👩🏼‍💻
 
 ## Frontend Developer, Full Stack Developer in process
 

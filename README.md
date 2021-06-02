@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You can find me 🌎:
+- [LinkedIn](https://www.linkedin.com/in/valentinamarenda/)
+- [Instagram](https://www.instagram.com/valenmarenda/)
+
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😄
 
 ![Diseño sin título (21)](https://user-images.githubusercontent.com/77030740/120491936-09ad6e80-c390-11eb-914c-1ec63a8dd8ed.png)

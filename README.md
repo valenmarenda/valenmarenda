@@ -3,12 +3,13 @@
 ## Frontend Developer, Full Stack Developer in process
 
 
-const valentina = {
+```const valentina = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Boostrap, MaterialUI, Sass, MySql],
   currentlyLearning: []
 }
+```
 
 <!--
 **valenmarenda/valenmarenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,8 @@
 ## Frontend Developer, Full Stack Developer in process
 
 
-```const valentina = {
+```javascript
+const valentina = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Boostrap, MaterialUI, Sass, MySql],

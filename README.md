@@ -1,8 +1,7 @@
 ### Hi I'M Valentina 👋👩🏼‍💻
 
-<!--
-**valenmarenda/valenmarenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Frontend Developer, Full Stack Developer in process
+
 
 const valentina = {
   pronouns: "she" | "her",
@@ -10,6 +9,12 @@ const valentina = {
   tools: [React, Boostrap, MaterialUI, Sass, MySql],
   currentlyLearning: []
 }
+
+<!--
+**valenmarenda/valenmarenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 

@@ -6,8 +6,8 @@
 ```javascript
 const valentina = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Boostrap, MaterialUI, Sass, MySQL, Git],
+  code: [Javascript, HTML, CSS, typescript],
+  tools: [ReactJs, NodeJS, Boostrap, MaterialUI, Sass, SQL, MongoDb, Firebase, Git],
   currentlyLearning: [C#, .net, BackendDevelopment]
 }
 ```
